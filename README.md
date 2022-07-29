@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### <div align="center">Hello ! I'm Junaied 👨‍💻  Software Engineer 🚀</div>  
+### <div align="center"> Hello ! I'm Junaied Hossain 👨‍💻 <br> <p>Software Engineer 🚀 </p></div>  
 🔭 I’m currently working at ExaByting.<br>🌱 Currently learning Design Patterns and System Design.<br>⚡ Trying to be a Polyglot Engineer.
 
 
